@@ -62,8 +62,8 @@ Make sure you have the following installed on your machine:
 **Cloning the Repository**
 
 ```bash
-git clone https://github.com/...
-cd ...
+git clone https://github.com/monisha-82/React_Native-Jobs.git
+cd React_Native-Jobs
 ```
 
 **Installation**
@@ -79,7 +79,7 @@ npm install
 Create a new file named `.env` in the root of your project and add the following content:
 
 ```env
-X-RapidAPI-Key=
+RAPID_API_KEY=
 ```
 
 Replace the placeholder values with your actual credentials. You can obtain these credentials by signing up on the [RapidAPI website](https://rapidapi.com/letscrape-6bRBa3QguO5/api/jsearch).
