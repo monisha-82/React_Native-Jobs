@@ -1,21 +1,10 @@
 <div align="center">
   <h3 align="center">React Native JobSift App</h3>
+
+  <img src="assets/demo.png" width="360" height="760">
 </div>
 
-![Demo Image](assets/demo.png)
-
-## <a name="table">Table of Contents</a>
-
-1. [Introduction](#introduction)
-2. [Tech Stack](#tech-stack)
-3. [Features](#features)
-4. [Quick Start](#quick-start)
-
-## <a name="introduction">Introduction</a>
-
-A hands-on experience in React Native development, from understanding the basics to building a feature-rich app with a focus on UI/UX, external data integration, and best practices.
-
-## <a name="tech-stack">Tech Stack</a>
+## Tech Stack
 
 - Node.js
 - React Native
@@ -23,7 +12,7 @@ A hands-on experience in React Native development, from understanding the basics
 - Expo
 - Stylesheet
 
-## <a name="features">Features</a>
+## Features
 
 **Visually Appealing UI/UX Design**: Develop an aesthetically pleasing user interface using React Native components.
 
@@ -46,48 +35,3 @@ A hands-on experience in React Native development, from understanding the basics
 **Optimized for All Devices**: A responsive design for a seamless user experience across various devices.
 
 and many more, including code architecture and reusability
-
-## <a name="quick-start">Quick Start</a>
-
-Follow these steps to set up the project locally on your machine.
-
-**Prerequisites**
-
-Make sure you have the following installed on your machine:
-
-- [Git](https://git-scm.com/)
-- [Node.js](https://nodejs.org/en)
-- [npm](https://www.npmjs.com/) (Node Package Manager)
-
-**Cloning the Repository**
-
-```bash
-git clone https://github.com/monisha-82/React_Native-Jobs.git
-cd React_Native-Jobs
-```
-
-**Installation**
-
-Install the project dependencies using npm:
-
-```bash
-npm install
-```
-
-**Set Up Environment Variables**
-
-Create a new file named `.env` in the root of your project and add the following content:
-
-```env
-RAPID_API_KEY=
-```
-
-Replace the placeholder values with your actual credentials. You can obtain these credentials by signing up on the [RapidAPI website](https://rapidapi.com/letscrape-6bRBa3QguO5/api/jsearch).
-
-**Running the Project**
-
-```bash
-npm start
-```
-
-Open [http://localhost:19000](http://localhost:19000) in your browser to view the project.
