@@ -1,5 +1,5 @@
 <div align="center">
-  <h3 align="center">React Native Job Finder App</h3>
+  <h3 align="center">React Native JobSift App</h3>
 </div>
 
 ![Demo Image](assets/demo.png)
